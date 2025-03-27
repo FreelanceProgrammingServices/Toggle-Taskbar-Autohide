@@ -1,12 +1,9 @@
 ﻿/*
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║ ToggleTaskbarAutohide.cpp                                                         ║
+║ ToggleTaskbarAutohide.cpp                                                     ║
 ╠═══════════════════════════════════════════════════════════════════════════════╣
 ║ Purpose: Toggle Windows taskbar auto-hide option with a convenient shortcut.  ║
 ║                                                                               ║
-║ Author : Nikolas Wieczorek                                                    ║
-║ Version: 1.0.0                                                                ║
-║ Created: March 2025                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 */
 
@@ -95,7 +92,7 @@ DWORD WINAPI WatchdogThreadProc(LPVOID lpParam);
 
 /*
  * Watchdog Thread:
- * This thread monitors system state after Explorer restarts
+ * This thread monitors system state after explorer.exe restarts
  * and ensures tray icon is properly recreated
  */
 DWORD WINAPI WatchdogThreadProc(LPVOID lpParam) {
