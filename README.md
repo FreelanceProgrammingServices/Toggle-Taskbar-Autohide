@@ -2,7 +2,7 @@
 
 ![ToggleTaskbarAutohide Logo](demo.gif)
 
-**A convenient shortcut to directly toggle the "Automatically hide the taskbar in desktop mode" option, with optional system tray shortcut.*
+**A convenient shortcut to directly toggle the "Automatically hide the taskbar in desktop mode" option + additional system tray shortcut.*
 
 # Implementation Details
 I originally implemented this as a .bat script like so
