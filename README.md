@@ -1,6 +1,6 @@
 # ToggleTaskbarAutohide
 
-![ToggleTaskbarAutohide Logo](assets/github.png)
+![ToggleTaskbarAutohide Logo](demo.gif)
 
 **A convenient shortcut to directly toggle the "Automatically hide the taskbar in desktop mode" option, with optional system tray shortcut.*
 
