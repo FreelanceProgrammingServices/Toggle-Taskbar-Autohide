@@ -1,0 +1,4 @@
+﻿  ToggleTaskbarAutohide.cpp
+C:\Users\owner\Desktop\ToggleTaskbarAutohide\ToggleTaskbarAutohide\ToggleTaskbarAutohide.cpp(163,39): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+C:\Users\owner\Desktop\ToggleTaskbarAutohide\ToggleTaskbarAutohide\ToggleTaskbarAutohide.cpp(708,57): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  ToggleTaskbarAutohide.vcxproj -> C:\Users\owner\Desktop\ToggleTaskbarAutohide\x64\Debug\ToggleTaskbarAutohide.exe
