@@ -16,6 +16,10 @@
 2. Place the executable in any location you prefer.
 3. Run the application directly - no installation needed.
 
+## Support
+Tested on:
+  Windows 8, 10, and 11.
+
 
 ## License
 
