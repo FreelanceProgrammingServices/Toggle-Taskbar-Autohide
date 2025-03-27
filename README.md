@@ -1,4 +1,4 @@
-# ToggleTaskbarAutohide
+# Toggle Taskbar Auto-hide
 
 ![ToggleTaskbarAutohide Logo](demo.gif)
 
