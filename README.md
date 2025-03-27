@@ -27,7 +27,7 @@ But the problem with this was that a command prompt window would pop up for a sp
     ║ 0x1C   │ 36   │ Additional configuration data                                 ║
     ╚════════╧══════╧═══════════════════════════════════════════════════════════════╝
 ```
-The rest of the code deals with the tray icon and reopening explorer windows state since they have to be closed and reopened for the setting change to take effect. 
+The rest of the code deals with the tray icon and reopening explorer windows state since they have to be closed and reopened for the setting change to take effect. The icons for the application are based on system icons. 
 
 
 [Download Latest Release](https://github.com/FreelanceProgrammingServices/ToggleTaskbarAutohide/releases/latest)
